@@ -3,21 +3,22 @@
 This project is a real-time computer vision application that detects and interprets sign language hand gestures using a webcam. Built with YOLOv5 for object detection and Flask for the web interface, it allows users to either upload an image or use their webcam to capture gestures and receive annotated predictions instantly.
 
 🚀 Features
-Real-time sign language detection via webcam
 
-Option to upload static images for prediction
+1.Real-time sign language detection via webcam
 
-Fast and accurate detection using a fine-tuned YOLOv5 model
+2.Option to upload static images for prediction
 
-Interactive and responsive web interface (HTML/CSS/JS)
+3.Fast and accurate detection using a fine-tuned YOLOv5 model
 
-Easily extensible for new gesture classes
+4.Interactive and responsive web interface (HTML/CSS/JS)
+
 
 🛠️ Tech Stack
-YOLOv5 (PyTorch)
 
-Flask (Python backend)
+1.YOLOv5 (PyTorch)
 
-HTML/CSS/JavaScript (Frontend)
+2.Flask (Python backend)
 
-OpenCV for image processing
+3.HTML/CSS/JavaScript (Frontend)
+
+4.OpenCV for image processing
